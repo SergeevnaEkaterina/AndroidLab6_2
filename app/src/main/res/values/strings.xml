@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task2</string>
+    <string name="download_polytech">Download polytech</string>
+    <string name="polytech">MainBuilding</string>
+</resources>
